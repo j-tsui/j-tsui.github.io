@@ -37,7 +37,7 @@ li a:hover:not(.active) {
     color: #464647;
 }
 
-#social {
+.footer {
     text-align: center;
 }
 
