@@ -41,13 +41,16 @@ li a:hover:not(.active) {
     text-align: center;
 }
 
-.social-icon {
+.footer .social-icon {
     width: 20px;
     height: 20px;
     margin: 0 5px;
 }
 
-
-a {
+.footer a {
     text-decoration: none;
+}
+
+.footer p {
+    font-size: 10px;
 }
